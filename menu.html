@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Thanjai Mess Menu - Authentic South Indian Cuisine</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+  <link rel="stylesheet" href="assets/css/menu.css">
+  <link rel="stylesheet" href="assets/css/header.css">
+</head>
+<body>
+    <header class="topbar">
+        <div class="brand">
+          <img src="assets/images/new-logo.png" class="logo" alt="Thanjai Mess Logo">
+          <span class="brand-name">Thanjai Mess</span>
+        </div>
+    
+        <input type="checkbox" id="menu-toggle" aria-label="Toggle navigation">
+        <label class="menu-button" for="menu-toggle" aria-hidden="true">
+          <span></span>
+          <span></span>
+          <span></span>
+        </label>
+    
+        <div class="nav-drawer">
+          <nav class="nav">
+            <a href="index.html">Home</a>
+            <a href="menu.html">Menu</a>
+            <a href="index.html#about">About Us</a>
+            <a href="#locations">Our Locations</a>
+            <a href="#events">Events</a>
+            <a href="#order">Order Online</a>
+            <a href="catering.html">Catering Inquiry</a>
+            <a href="#blog">Blog</a>
+            <a href="contact.html">Contact Us</a>
+          </nav>
+          <div class="nav-actions">
+          </div>
+        </div>
+      </header>
+
+  <main class="menu-page">
+    <!-- Filter Buttons -->
+    <section class="filter-section">
+      <div class="filter-container">
+        <button class="filter-btn active" data-filter="all">All</button>
+        <button class="filter-btn" data-filter="soups">Soups</button>
+        <button class="filter-btn" data-filter="veg-appetizer">Veg Appetizer</button>
+        <button class="filter-btn" data-filter="non-veg-appetizer">Non Veg Appetizer</button>
+        <button class="filter-btn" data-filter="egg-appetizer">Egg Appetizer</button>
+        <button class="filter-btn" data-filter="biriyani">Biriyani</button>
+        <button class="filter-btn" data-filter="veg-curries">Veg Curries</button>
+        <button class="filter-btn" data-filter="non-veg-curries">Non Veg Curries</button>
+        <button class="filter-btn" data-filter="south-indian-specials">South Indian Specials</button>
+        <button class="filter-btn" data-filter="thanjai-specials">Thanjai Specials</button>
+        <button class="filter-btn" data-filter="chinese">Chinese</button>
+        <button class="filter-btn" data-filter="breads-parottas">Breads & Parottas</button>
+        <button class="filter-btn" data-filter="dosai-corner">Dosai Corner</button>
+        <button class="filter-btn" data-filter="desserts">Desserts</button>
+        <button class="filter-btn" data-filter="beverages">Beverages</button>
+      </div>
+    </section>
+
+    <!-- Soups Section -->
+    <section class="menu-section" id="soups">
+      <h2 class="menu-category-title">Soups</h2>
+      
+      <div class="menu-grid">
+        <!-- Drumstick Soup -->
+        <article class="menu-card" data-category="soups">
+          <div class="menu-card-image">
+            <img src="https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=600&q=80" alt="Drumstick Soup">
+          </div>
+          <div class="menu-card-content">
+            <h3 class="menu-item-name">Drumstick Soup</h3>
+            <p class="menu-item-description">A Warm And Hearty South Indian Soup Made With Tender Drumsticks, Infused With Aromatic Spices, And Simmered To Perfection.</p>
+          </div>
+        </article>
+
+        <!-- Milagu Rasam -->
+        <article class="menu-card" data-category="soups">
+          <div class="menu-card-image">
+            <img src="https://images.unsplash.com/photo-1631452180519-c014fe946bc7?auto=format&fit=crop&w=600&q=80" alt="Milagu Rasam">
+          </div>
+          <div class="menu-card-content">
+            <h3 class="menu-item-name">Milagu Rasam</h3>
+            <p class="menu-item-description">A Bold And Spicy Pepper-Based Broth, Bursting With The Warmth Of Black Pepper, Tamarind, And Traditional Indian Herbs.</p>
+          </div>
+        </article>
+
+        <!-- Naatu Kozhi Chaaru -->
+        <article class="menu-card" data-category="soups">
+          <div class="menu-card-image">
+            <img src="https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?auto=format&fit=crop&w=600&q=80" alt="Naatu Kozhi Chaaru">
+          </div>
+          <div class="menu-card-content">
+            <h3 class="menu-item-name">Naatu Kozhi Chaaru</h3>
+            <p class="menu-item-description">A Countryside-Style Chicken Soup, Slow-Cooked With Native Spices, Fresh Herbs, And A Hint Of Tangy Tamarind.</p>
+          </div>
+        </article>
+
+        <!-- Aatu Kaal Soup/Paya -->
+        <article class="menu-card" data-category="soups">
+          <div class="menu-card-image">
+            <img src="https://images.unsplash.com/photo-1585032226651-759b368d7246?auto=format&fit=crop&w=600&q=80" alt="Aatu Kaal Soup">
+          </div>
+          <div class="menu-card-content">
+            <h3 class="menu-item-name">Aatu Kaal Soup/Paya</h3>
+            <p class="menu-item-description">A Rich And Nourishing Goat Leg Soup, Simmered For Hours With Fragrant Spices, Creating A Comforting, Protein-Packed Delight.</p>
+          </div>
+        </article>
+
+        <!-- Idicha Nandu Chaaru -->
+        <article class="menu-card" data-category="soups">
+          <div class="menu-card-image">
+            <img src="https://images.unsplash.com/photo-1559847844-5315695dadae?auto=format&fit=crop&w=600&q=80" alt="Idicha Nandu Chaaru">
+          </div>
+          <div class="menu-card-content">
+            <h3 class="menu-item-name">Idicha Nandu Chaaru</h3>
+            <p class="menu-item-description">A Delicately Crushed Crab Soup, Infused With Coastal Spices And A Touch Of Coconut, Offering A Taste Of The Sea In Every Sip.</p>
+          </div>
+        </article>
+
+        <!-- Mutton Bone Soup -->
+        <article class="menu-card" data-category="soups">
+          <div class="menu-card-image">
+            <img src="https://images.unsplash.com/photo-1603105037880-880cd4edfb0d?auto=format&fit=crop&w=600&q=80" alt="Mutton Bone Soup">
+          </div>
+          <div class="menu-card-content">
+            <h3 class="menu-item-name">Mutton Bone Soup</h3>
+            <p class="menu-item-description">A Deeply Flavorful Broth Made From Slow-Simmered Mutton Bones, Infused With Warming Spices For A Rich, Hearty Experience.</p>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <!-- Veg Appetizer Section -->
+    <section class="menu-section" id="veg-appetizer">
+      <h2 class="menu-category-title">Veg Appetizer</h2>
+      
+      <div class="menu-grid">
+        <!-- Sample Veg Appetizers - Add your actual menu items -->
+        <article class="menu-card" data-category="veg-appetizer">
+          <div class="menu-card-image">
+            <img src="https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=600&q=80" alt="Gobi Manchurian">
+          </div>
+          <div class="menu-card-content">
+            <h3 class="menu-item-name">Gobi Manchurian</h3>
+            <p class="menu-item-description">Crispy Cauliflower Florets Tossed In A Tangy And Spicy Manchurian Sauce, A Perfect Indo-Chinese Fusion Appetizer.</p>
+          </div>
+        </article>
+
+        <article class="menu-card" data-category="veg-appetizer">
+          <div class="menu-card-image">
+            <img src="https://images.unsplash.com/photo-1589302168068-964664d93dc0?auto=format&fit=crop&w=600&q=80" alt="Paneer 65">
+          </div>
+          <div class="menu-card-content">
+            <h3 class="menu-item-name">Paneer 65</h3>
+            <p class="menu-item-description">Marinated Cottage Cheese Deep-Fried To Golden Perfection, Seasoned With Aromatic South Indian Spices And Curry Leaves.</p>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <!-- Non Veg Appetizer Section -->
+    <section class="menu-section" id="non-veg-appetizer">
+      <h2 class="menu-category-title">Non Veg Appetizer</h2>
+      
+      <div class="menu-grid">
+        <article class="menu-card" data-category="non-veg-appetizer">
+          <div class="menu-card-image">
+            <img src="https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?auto=format&fit=crop&w=600&q=80" alt="Chicken 65">
+          </div>
+          <div class="menu-card-content">
+            <h3 class="menu-item-name">Chicken 65</h3>
+            <p class="menu-item-description">Spicy, Deep-Fried Chicken Marinated With Ginger, Garlic, Red Chili, And Curry Leaves - A Classic South Indian Favorite.</p>
+          </div>
+        </article>
+
+        <article class="menu-card" data-category="non-veg-appetizer">
+          <div class="menu-card-image">
+            <img src="https://images.unsplash.com/photo-1562159278-1253a58da141?auto=format&fit=crop&w=600&q=80" alt="Chicken Lollipop">
+          </div>
+          <div class="menu-card-content">
+            <h3 class="menu-item-name">Chicken Lollipop</h3>
+            <p class="menu-item-description">Crispy Fried Chicken Wings Shaped Like Lollipops, Coated In A Spicy, Tangy Sauce That's Irresistibly Delicious.</p>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <!-- Biriyani Section -->
+    <section class="menu-section" id="biriyani">
+      <h2 class="menu-category-title">Biriyani</h2>
+      
+      <div class="menu-grid">
+        <article class="menu-card" data-category="biriyani">
+          <div class="menu-card-image">
+            <img src="https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=600&q=80" alt="Chicken Biryani">
+          </div>
+          <div class="menu-card-content">
+            <h3 class="menu-item-name">Chicken Biryani</h3>
+            <p class="menu-item-description">Aromatic Basmati Rice Layered With Succulent Chicken Pieces, Cooked With Traditional Spices And Saffron For A Royal Feast.</p>
+          </div>
+        </article>
+
+        <article class="menu-card" data-category="biriyani">
+          <div class="menu-card-image">
+            <img src="https://images.unsplash.com/photo-1642821373181-696a54913e93?auto=format&fit=crop&w=600&q=80" alt="Goat Biryani">
+          </div>
+          <div class="menu-card-content">
+            <h3 class="menu-item-name">The Legendary Goat Biryani</h3>
+            <p class="menu-item-description">Slow-Cooked Basmati Rice Layered With Tender Goat Pieces, Infused With Rich Spices And Herbs For An Unforgettable Experience.</p>
+          </div>
+        </article>
+
+        <article class="menu-card" data-category="biriyani">
+          <div class="menu-card-image">
+            <img src="https://images.unsplash.com/photo-1505253758473-96b7015fcd40?auto=format&fit=crop&w=600&q=80" alt="Veg Biryani">
+          </div>
+          <div class="menu-card-content">
+            <h3 class="menu-item-name">Vegetable Biryani</h3>
+            <p class="menu-item-description">Fragrant Basmati Rice Cooked With Fresh Vegetables, Aromatic Spices, And Herbs, A Vegetarian Delight Full Of Flavor.</p>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <!-- Add more sections as needed for other categories -->
+
+  </main>
+
+  <footer class="footer">
+    <div class="footer-cols-container">
+        <div class="footer-col contact-info-col">
+            <h4>Contact Info</h4>
+            
+            <div class="contact-item">
+                <i class="fas fa-map-marker-alt"></i> 
+                <p>2226 US-130, North Brunswick Township, NJ 08902</p>
+            </div>
+            
+            <div class="contact-item">
+                <i class="fas fa-phone-alt"></i> 
+                <p>+1 (732) 820-6808</p>
+            </div>
+            
+            <div class="contact-item">
+                <i class="fas fa-envelope"></i> 
+                <p>thanjaimess.usa@gmail.com</p>
+            </div>
+            
+            <div class="socials">
+                <a href="#" class="social-icon"><i class="fab fa-instagram"></i></a>
+                <a href="#" class="social-icon"><i class="fab fa-facebook-f"></i></a>
+            </div>
+
+            <div class="payment-methods">
+                <p>We Accept</p>
+                <i class="fab fa-cc-visa"></i>
+                <i class="fab fa-cc-mastercard"></i>
+                <i class="fab fa-cc-discover"></i>
+                <i class="fab fa-cc-amex"></i>
+            </div>
+        </div>
+        
+        <div class="footer-col hours-col">
+            <h4>Opening Hours</h4>
+            <ul>
+                <li><span>Monday</span><span>11:00 AM - 02:30 PM</span></li>
+                <li><span></span><span>05:30 PM - 09:00 PM</span></li>
+                <li><span>Tuesday</span><span class="holiday">Holiday</span></li>
+                <li><span>Wednesday</span><span>11:00 AM - 02:30 PM</span></li>
+                <li><span></span><span>05:30 PM - 10:00 PM</span></li>
+                <li><span>Thursday</span><span>11:00 AM - 02:30 PM</span></li>
+                <li><span></span><span>05:30 PM - 10:00 PM</span></li>
+                <li><span>Friday</span><span>11:00 AM - 03:00 PM</span></li>
+                <li><span></span><span>05:30 PM - 10:00 PM</span></li>
+                <li><span>Saturday</span><span>07:00 AM - 11:00 AM</span></li>
+                <li><span></span><span>11:00 AM - 03:00 PM</span></li>
+                <li><span></span><span>05:30 PM - 10:00 PM</span></li>
+                <li><span>Sunday</span><span>07:00 AM - 11:00 AM</span></li>
+                <li><span></span><span>11:00 AM - 03:00 PM</span></li>
+                <li><span></span><span>05:30 PM - 10:00 PM</span></li>
+            </ul>
+        </div>
+        
+        <div class="footer-col map-col">
+            <h4>Find Us</h4>
+            <img src="https://maps.googleapis.com/maps/api/staticmap?center=..." alt="Map of Thanjai Mess" class="footer-map-image">
+        </div>
+    </div>
+  </footer>
+
+  <script>
+    // Filter functionality
+    const filterBtns = document.querySelectorAll('.filter-btn');
+    const menuCards = document.querySelectorAll('.menu-card');
+    const menuSections = document.querySelectorAll('.menu-section');
+
+    filterBtns.forEach(btn => {
+      btn.addEventListener('click', () => {
+        // Remove active class from all buttons
+        filterBtns.forEach(b => b.classList.remove('active'));
+        // Add active class to clicked button
+        btn.classList.add('active');
+
+        const filter = btn.getAttribute('data-filter');
+
+        // Show/hide sections and cards based on filter
+        if (filter === 'all') {
+          menuSections.forEach(section => section.style.display = 'block');
+          menuCards.forEach(card => card.style.display = 'flex');
+        } else {
+          menuSections.forEach(section => {
+            const sectionId = section.getAttribute('id');
+            if (sectionId === filter) {
+              section.style.display = 'block';
+            } else {
+              section.style.display = 'none';
+            }
+          });
+
+          menuCards.forEach(card => {
+            if (card.getAttribute('data-category') === filter) {
+              card.style.display = 'flex';
+            } else {
+              card.style.display = 'none';
+            }
+          });
+        }
+
+        // Scroll to first visible section
+        if (filter !== 'all') {
+          const targetSection = document.getElementById(filter);
+          if (targetSection) {
+            targetSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          }
+        }
+      });
+    });
+
+    // Close mobile menu when clicking a link
+    const navLinks = document.querySelectorAll('.nav a');
+    const menuToggle = document.getElementById('menu-toggle');
+
+    navLinks.forEach(link => {
+      link.addEventListener('click', () => {
+        menuToggle.checked = false;
+      });
+    });
+  </script>
+</body>
+</html>

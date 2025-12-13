@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thanjai Mess - Catering Inquiry</title>
+    <link rel="stylesheet" href="assets/css/header.css">
+    <link rel="stylesheet" href="assets/css/catering.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <header class="topbar">
+        <div class="brand">
+          <img src="assets/images/new-logo.png" class="logo" alt="Thanjai Mess Logo">
+          <span class="brand-name">Thanjai Mess</span>
+        </div>
+    
+        <input type="checkbox" id="menu-toggle" aria-label="Toggle navigation">
+        <label class="menu-button" for="menu-toggle" aria-hidden="true">
+          <span></span>
+          <span></span>
+          <span></span>
+        </label>
+    
+        <div class="nav-drawer">
+          <nav class="nav">
+            <a href="index.html">Home</a>
+            <a href="menu.html">Menu</a>
+            <a href="index.html#about">About Us</a>
+            <a href="#locations">Our Locations</a>
+            <a href="#events">Events</a>
+            <a href="#order">Order Online</a>
+            <a href="catering.html">Catering Inquiry</a>
+            <a href="#blog">Blog</a>
+            <a href="contact.html">Contact Us</a>
+          </nav>
+          <div class="nav-actions">
+          </div>
+        </div>
+      </header>
+    
+    <section class="catering-section">
+        <div class="container catering-grid">
+            <div class="catering-image-container">
+                <img src="assets/images/catering.jpg" alt="South Indian Buffet" class="catering-food-image">
+            </div>
+            <div class="catering-form-container">
+                <div class="form-header">
+                    <h2 class="font">Catering Services</h2>
+                    <p>Let us make your special occasions more memorable with our authentic South Indian cuisine.</p>
+                </div>
+                <form class="catering-form">
+                    <div class="form-row">
+                        <input type="text" placeholder="First Name *" required>
+                        <input type="text" placeholder="Last Name *" required>
+                    </div>
+                    <div class="form-row">
+                        <input type="email" placeholder="Email Address *" required>
+                        <input type="tel" placeholder="Phone Number" required>
+                    </div>
+                    <div class="form-row">
+                        <input type="number" placeholder="Number of Guests *" required min="1">
+                        <input type="text" placeholder="Select the event date *" onfocus="(this.type='date')" required>
+                    </div>
+                    <div class="form-row full-width">
+                        <textarea placeholder="Order Details / Special Requirements"></textarea>
+                    </div>
+
+                    <div class="form-row full-width captcha-row">
+                        <label class="captcha-label">
+                            <input type="checkbox" required>
+                            I'm not a robot
+                        </label>
+                        <div class="payment-icons">
+                            <i class="fab fa-google-pay"></i>
+                            <i class="fab fa-cc-paypal"></i>
+                        </div>
+                    </div>
+
+                    <div class="form-row full-width">
+                        <button type="submit" class="submit-button">SEND MESSAGE <i class="fas fa-arrow-right"></i></button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <footer class="main-footer">
+        <div class="container footer-grid">
+
+            <div class="footer-column contact-info">
+                <h3>Contact Info</h3>
+                <p>2226 US-130, North Brunswick Township, NJ 08902</p>
+                <p><i class="fas fa-phone-alt"></i> +1 (732) 820-6808</p>
+                <p><i class="fas fa-envelope"></i> thanjaimess.usa@gmail.com</p>
+                <div class="social-links">
+                    <a href="#"><i class="fab fa-instagram"></i></a>
+                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                </div>
+                <h4>We Accept</h4>
+                <div class="payment-methods">
+                    <i class="fab fa-cc-visa"></i>
+                    <i class="fab fa-cc-mastercard"></i>
+                    <i class="fab fa-cc-amex"></i>
+                    <i class="fab fa-cc-discover"></i>
+                </div>
+            </div>
+
+            <div class="footer-column opening-hours">
+                <h3>Opening Hours</h3>
+                <table>
+                    <tr><td>Monday</td><td>11:00 AM - 02:30 PM</td></tr>
+                    <tr><td></td><td>05:30 PM - 09:00 PM</td></tr>
+                    <tr><td>Tuesday</td><td>Holiday</td></tr>
+                    <tr><td>Wednesday</td><td>11:00 AM - 02:30 PM</td></tr>
+                    <tr><td></td><td>05:30 PM - 10:00 PM</td></tr>
+                    <tr><td>Thursday</td><td>11:00 AM - 02:30 PM</td></tr>
+                    <tr><td></td><td>05:30 PM - 10:00 PM</td></tr>
+                    <tr><td>Friday</td><td>11:00 AM - 03:00 PM</td></tr>
+                    <tr><td></td><td>05:30 PM - 10:00 PM</td></tr>
+                    <tr><td>Saturday</td><td>07:00 AM - 11:00 AM</td></tr>
+                    <tr><td></td><td>11:00 AM - 03:00 PM</td></tr>
+                    <tr><td></td><td>05:30 PM - 10:00 PM</td></tr>
+                    <tr><td>Sunday</td><td>07:00 AM - 11:00 AM</td></tr>
+                    <tr><td></td><td>11:00 AM - 03:00 PM</td></tr>
+                    <tr><td></td><td>05:30 PM - 10:00 PM</td></tr>
+                </table>
+            </div>
+
+            <div class="footer-column find-us">
+                <h3>Find Us</h3>
+                <div class="map-placeholder">
+                                    </div>
+            </div>
+
+        </div>
+
+        <div class="copyright">
+            <p>&copy; 2025 Thanjai Mess All Right Reserved.</p>
+            <p><a href="#">Terms & Conditions</a></p>
+            <p>Powered by <a href="#" class="powered-by">@maghil</a></p>
+        </div>
+    </footer>
+
+</body>
+</html>

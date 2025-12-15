@@ -253,7 +253,7 @@ img {
   box-shadow: 0px 5px 15px rgba(0,0,0,0.15);
   transition: transform 0.3s ease;
   margin: 0 auto;
-}
+} 
 
 .icon-circle img {
   width: 55px;
@@ -411,11 +411,28 @@ img {
 }
 
 .event-card {
-  max-width: 500px;
+   /*max-width: 500px;
   margin: 0 auto;
   box-shadow: var(--shadow);
   border-radius: 16px;
   overflow: hidden;
+  display: flex;
+  gap: 15px; */
+
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  overflow: visible;
+}
+.event-card img {
+  width: 380px;
+  height: auto;
+  border-radius: 18px;
+  /*height: auto;
+  width: 320px;   
+  border-radius: 15px; */
+     
+  
 }
 
 .instagram .insta-grid {
@@ -871,4 +888,30 @@ img {
     width: 55px;
     height: 55px;
   }
+}
+
+.icon-circle i {
+  font-size: 50px;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+
+.achieve{
+  width: 70px;          /* circle size */
+  height: 70px;
+  background: #1bb36a;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.achieve i{
+  font-size: 32px;
 }

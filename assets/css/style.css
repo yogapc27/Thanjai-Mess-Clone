@@ -422,18 +422,16 @@ img {
   display: flex;
   justify-content: center;
   gap: 30px;
-  overflow: visible;
-}
+  overflow: visible; 
+} 
 .event-card img {
   width: 380px;
   height: auto;
   border-radius: 18px;
-  /*height: auto;
-  width: 320px;   
-  border-radius: 15px; */
+}
      
   
-}
+
 
 .instagram .insta-grid {
   display: grid;
@@ -914,4 +912,47 @@ img {
 
 .achieve i{
   font-size: 32px;
+}
+
+
+
+/* ===============================
+   Upcoming Events – Responsive Fix
+   =============================== */
+
+/* Default (Desktop & Tablet) – already side by side */
+.event-card {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: nowrap;
+}
+
+/* Tablet adjustment */
+@media (max-width: 900px) {
+  .event-card img {
+    width: 320px;
+  }
+}
+
+/* Mobile responsiveness */
+@media (max-width: 640px) {
+  .event-card {
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+
+  .event-card img {
+    width: 100%;
+    max-width: 360px;
+  }
+}
+
+/* Extra small devices */
+@media (max-width: 400px) {
+  .event-card img {
+    max-width: 100%;
+    border-radius: 16px;
+  }
 }

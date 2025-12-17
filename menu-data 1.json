@@ -1,0 +1,1182 @@
+{
+  "Soups": {
+    "menu-tag": "",
+    "items": [
+      {
+        "img-url": "./menu-image/soup/drumsticksoup.avif",
+        "food-title": "Drumstick Soup",
+        "food-price": "",
+        "description": "A Warm And Hearty South Indian Soup Made With Tender Drumsticks, Infused With Aromatic Spices, And Simmered To Perfection."
+      },
+      {
+        "img-url": "./menu-image/soup/milagurasam.avif",
+        "food-title": "Milagu Rasam",
+        "food-price": "",
+        "description": "A Bold And Spicy Pepper-Based Broth, Bursting With The Warmth Of Black Pepper, Tamarind, And Traditional Indian Herbs."
+      },
+      {
+        "img-url": "./menu-image/soup/naatukozhisoup.avif",
+        "food-title": "Naatu Kozhi Chaaru",
+        "food-price": "",
+        "description": "A Countryside-Style Chicken Soup, Slow-Cooked With Native Spices, Fresh Herbs, And A Hint Of Tangy Tamarind."
+      },
+      {
+        "img-url": "./menu-image/soup/aatukaalsoup.avif",
+        "food-title": "Aatu Kaal Soup/Paya",
+        "food-price": "",
+        "description": "A Rich And Nourishing Goat Leg Soup, Simmered For Hours With Fragrant Spices, Creating A Comforting, Protein-Packed Delight."
+      },
+      {
+        "img-url": "./menu-image/soup/idichannaduchaaru.jpg",
+        "food-title": "Idicha Nandu Chaaru",
+        "food-price": "",
+        "description": "A Delicately Crushed Crab Soup, Infused With Coastal Spices And A Touch Of Coconut, Offering A Taste Of The Sea In Every Sip."
+      },
+      {
+        "img-url": "./menu-image/soup/muttonbonesoup.jpg",
+        "food-title": "Mutton Bone Soup",
+        "food-price": "",
+        "description": "A Deeply Flavorful Broth Made From Slow-Simmered Mutton Bones, Infused With Warming Spices For A Rich, Hearty Experience."
+      }
+    ]
+  },
+  "Veg Appetizer": {
+    "menu-tag": "",
+    "items": [
+      {
+        "img-url": "./menu-image/veg-appetizer/vegsamosa.avif",
+        "food-title": "Veg Samosa",
+        "food-price": "",
+        "description": "Crispy golden pastry filled with a spiced potato and pea mixture, served with tangy tamarind and mint chutneys."
+      },
+      {
+        "img-url": "./menu-image/veg-appetizer/paneer65.avif",
+        "food-title": "Paneer 65",
+        "food-price": "",
+        "description": "Crispy, golden-fried paneer cubes tossed in a fiery South Indian spice blend, offering a perfect balance of crunch and heat."
+      },
+      {
+        "img-url": "./menu-image/veg-appetizer/paneerchilli.jpg",
+        "food-title": "Paneer Chilli",
+        "food-price": "",
+        "description": "A fusion of Indian and Chinese flavors, featuring stir-fried paneer in a tangy, spicy sauce with bell peppers and onions."
+      },
+      {
+        "img-url": "./menu-image/veg-appetizer/paneermanchurian.jpg",
+        "food-title": "Paneer Manchurian",
+        "food-price": "",
+        "description": "A classic Indo-Chinese delight of crispy paneer fritters coated in a savory garlic-ginger sauce, packed with umami flavors."
+      },
+      {
+        "img-url": "./menu-image/veg-appetizer/gobi65.jpg",
+        "food-title": "Gobi 65",
+        "food-price": "",
+        "description": "Crispy cauliflower florets marinated in a fiery South Indian spice blend, deep-fried to golden perfection."
+      },
+      {
+        "img-url": "./menu-image/veg-appetizer/gobicilli.jpg",
+        "food-title": "Gobi Chilli",
+        "food-price": "",
+        "description": "A fusion favorite featuring battered cauliflower stir-fried with bold chili sauce, bell peppers, and onions."
+      },
+      {
+        "img-url": "./menu-image/veg-appetizer/gobimanchurian.jpg",
+        "food-title": "Gobi Manchurian",
+        "food-price": "",
+        "description": "Indo-Chinese delight of crispy cauliflower fritters coated in a tangy, garlicky Manchurian sauce."
+      },
+      {
+        "img-url": "./menu-image/veg-appetizer/babycornchilli.jpg",
+        "food-title": "Babycorn Chilli",
+        "food-price": "",
+        "description": "Crispy baby corn tossed in a spicy and tangy chili sauce, infused with bold Indo-Chinese flavors."
+      },
+      {
+        "img-url": "./menu-image/veg-appetizer/babycornmanchurian.jpg",
+        "food-title": "Babycorn Manchurian",
+        "food-price": "",
+        "description": "Golden-fried baby corn coated in a rich garlic-ginger Manchurian sauce, delivering the perfect crunch and spice."
+      },
+      {
+        "img-url": "./menu-image/missingimages/onionkarampakoda.avif",
+        "food-title": "Onion Karam Pakoda",
+        "food-price": "",
+        "description": "Crispy, golden-brown onion fritters spiced with bold South Indian flavors, perfect for a crunchy snack."
+      }
+    ]
+  },
+  "Non Veg Appetizer": {
+    "menu-tag": "Spicy & Flavorful Non-Veg Starters",
+    "items": [
+      {
+        "img-url": "./menu-image/non-veg-appetizer/chicken65dry.jpg",
+        "food-title": "Chicken 65 Dry",
+        "food-price": "",
+        "description": "A crispy, spicy, and tangy deep-fried chicken dish, marinated with bold South Indian spices and curry leaves."
+      },
+      {
+        "img-url": "./menu-image/non-veg-appetizer/chickenlollipops.avif",
+        "food-title": "Chicken Lollipops",
+        "food-price": "",
+        "description": "Juicy, frenched chicken wings marinated in bold spices and deep-fried to a perfect crisp."
+      },
+      {
+        "img-url": "./menu-image/non-veg-appetizer/chillichicken.avif",
+        "food-title": "Chilli Chicken",
+        "food-price": "",
+        "description": "A sizzling Indo-Chinese classic with crispy chicken tossed in a spicy and tangy chili sauce."
+      },
+      {
+        "img-url": "./menu-image/non-veg-appetizer/chickenmanchurian.avif",
+        "food-title": "Chicken Manchurian",
+        "food-price": "",
+        "description": "A fusion favorite featuring crispy chicken balls coated in a rich, garlicky Manchurian sauce."
+      },
+      {
+        "img-url": "./menu-image/non-veg-appetizer/chickenpepperfry.jpg",
+        "food-title": "Chicken Pepper Fry",
+        "food-price": "",
+        "description": "Tender chicken stir-fried with crushed black pepper, curry leaves, and aromatic spices."
+      },
+      {
+        "img-url": "./menu-image/non-veg-appetizer/gingerchicken.avif",
+        "food-title": "Ginger Chicken",
+        "food-price": "",
+        "description": "Succulent chicken cooked in a zesty ginger-infused sauce with a hint of spice."
+      },
+      {
+        "img-url": "./menu-image/non-veg-appetizer/garlicchicken.avif",
+        "food-title": "Garlic Chicken",
+        "food-price": "",
+        "description": "Flavorful chicken stir-fried with roasted garlic, soy sauce, and a touch of spice."
+      },
+      {
+        "img-url": "./menu-image/non-veg-appetizer/kodivepudu.jpg",
+        "food-title": "Kodi Veppudu",
+        "food-price": "",
+        "description": "A traditional Andhra-style dry chicken fry with bold spices and curry leaves."
+      },
+      {
+        "img-url": "./menu-image/non-veg-appetizer/karuveppilaikodivepudu.jpg",
+        "food-title": "Karuveppilai Kodi Veppudu",
+        "food-price": "",
+        "description": "A spicy, crispy fried chicken infused with the earthy aroma of fresh curry leaves, a classic Andhra-style dish."
+      },
+      {
+        "img-url": "./menu-image/missingimages/gunturkaramchicken.avif",
+        "food-title": "Guntur Karam Chicken",
+        "food-price": "",
+        "description": "Spicy Guntur-style chicken fry with fiery red chilies and aromatic spices."
+      },
+      {
+        "img-url": "./menu-image/non-veg-appetizer/muttonkolaurandai.jpg",
+        "food-title": "Mutton Kola Urandai",
+        "food-price": "",
+        "description": "Succulent mutton meatballs infused with Chettinad spices and deep-fried."
+      },
+      {
+        "img-url": "./menu-image/missingimages/gunturkarammutton.avif",
+        "food-title": "Guntur Karam Mutton",
+        "food-price": "",
+        "description": "Bold and fiery mutton fry loaded with Guntur chili spice and rich flavors."
+      },
+      {
+        "img-url": "./menu-image/non-veg-appetizer/muttonpepperfry.webp",
+        "food-title": "Mutton Pepper Fry",
+        "food-price": "",
+        "description": "Tender mutton stir-fried with black pepper, garlic, and aromatic spices."
+      },
+      {
+        "img-url": "./menu-image/non-veg-appetizer/chillifish.jpg",
+        "food-title": "Chilli Fish",
+        "food-price": "",
+        "description": "Crispy fish fillets tossed in a spicy Indo-Chinese chili sauce with veggies."
+      },
+      {
+        "img-url": "./menu-image/non-veg-appetizer/surraputtu.jpg",
+        "food-title": "Surra Puttu",
+        "food-price": "",
+        "description": "Flaky shark fish stir-fried with spices, coconut, and curry leaves."
+      },
+      {
+        "img-url": "./menu-image/missingimages/nethili65.avif",
+        "food-title": "Nethili 65",
+        "food-price": "",
+        "description": "Crispy and golden deep-fried anchovies marinated in a spicy South Indian blend, a perfect seafood appetizer."
+      },
+      {
+        "img-url": "./menu-image/missingimages/shrimp65.avif",
+        "food-title": "Shrimp 65",
+        "food-price": "",
+        "description": "Golden-fried shrimp tossed in a fiery red masala with crunchy texture."
+      },
+      {
+        "img-url": "./menu-image/non-veg-appetizer/chilliprawns.jpg",
+        "food-title": "Chilli Prawns",
+        "food-price": "",
+        "description": "Juicy prawns stir-fried in a spicy, tangy Indo-Chinese chili sauce."
+      },
+      {
+        "img-url": "./menu-image/missingimages/karakudieeralvaruval.jpg",
+        "food-title": "Karaikudi Eral Varuval",
+        "food-price": "",
+        "description": "Chettinad-style prawns fry with coconut, red chilies, and bold spices."
+      }
+    ]
+  },
+  "Egg Appetizer": {
+    "menu-tag": "",
+    "items": [
+      {
+        "img-url": "./menu-image/egg-appetizer/masalaomelette.jpg",
+        "food-title": "Masala Omelette",
+        "food-price": "",
+        "description": "Fluffy omelette infused with onions, green chilies, and aromatic spices."
+      },
+      {
+        "img-url": "./menu-image/egg-appetizer/kalaki.webp",
+        "food-title": "Kalaki",
+        "food-price": "",
+        "description": "A soft and silky South Indian-style egg dish with a slightly runny center."
+      },
+      {
+        "img-url": "./menu-image/missingimages/chickenkeemaomelette.jpg",
+        "food-title": "Chicken Keema Omelette",
+        "food-price": "",
+        "description": "Wholesome omelette stuffed with spiced minced chicken and herbs."
+      },
+      {
+        "img-url": "./menu-image/egg-appetizer/muttonkeemaomelette.jpg",
+        "food-title": "Mutton Keema Omelette",
+        "food-price": "",
+        "description": "Rich and flavorful omelette filled with seasoned minced mutton."
+      },
+      {
+        "img-url": "./menu-image/egg-appetizer/eggpodimas.webp",
+        "food-title": "Egg Podimass",
+        "food-price": "",
+        "description": "Scrambled eggs cooked with onions, chilies, and South Indian spices."
+      },
+      {
+        "img-url": "./menu-image/egg-appetizer/eggpeppermasala.jpg",
+        "food-title": "Egg Pepper Masala",
+        "food-price": "",
+        "description": "Eggs stir-fried with black pepper, onions, and bold masala flavors."
+      }
+    ]
+  },
+  "Briyani": {
+    "menu-tag": "",
+    "items": [
+      {
+        "img-url": "./menu-image/biryani/vegbiryani.jpg",
+        "food-title": "Veg Biryani",
+        "food-price": "",
+        "description": "Fragrant basmati rice layered with spiced vegetables and aromatic herbs."
+      },
+      {
+        "img-url": "./menu-image/biryani/eggbiryani.jpg",
+        "food-title": "Egg Biryani",
+        "food-price": "",
+        "description": "Classic biryani infused with flavorful spices and boiled eggs."
+      },
+      {
+        "img-url": "./menu-image/biryani/paneerbiryani.jpg",
+        "food-title": "Paneer Biryani",
+        "food-price": "",
+        "description": "Aromatic biryani with soft paneer cubes, saffron, and exotic spices."
+      },
+      {
+        "img-url": "./menu-image/biryani/chickenbiryani.webp",
+        "food-title": "Chilli Chicken Biryani",
+        "food-price": "",
+        "description": "A fusion of spicy chili chicken with fragrant biryani rice."
+      },
+      {
+        "img-url": "./menu-image/biryani/tandoorichickenbiryani.jpg",
+        "food-title": "Tandoori Chicken Biryani",
+        "food-price": "",
+        "description": "Smoky tandoori chicken layered with aromatic, spiced basmati rice."
+      },
+      {
+        "img-url": "./menu-image/missingimages/vijayawadabonelesschickenbiryani.avif",
+        "food-title": "Vijayawada Boneless Chicken Biryani",
+        "food-price": "",
+        "description": "A spicy Andhra-style biryani with succulent boneless chicken."
+      },
+      {
+        "img-url": "./menu-image/missingimages/goatfrybiryani.avif",
+        "food-title": "Goat Fry Biryani",
+        "food-price": "",
+        "description": "A flavorful biryani featuring slow-cooked goat fry layered with fragrant basmati rice and aromatic spices."
+      },
+      {
+        "img-url": "./menu-image/missingimages/thallapakattu.avif",
+        "food-title": "Thallapakattu Goat Biryani",
+        "food-price": "",
+        "description": "Signature Tamil-style biryani with succulent goat meat and bold spices."
+      },
+      {
+        "img-url": "./menu-image/missingimages/amburchickenbiryani.avif",
+        "food-title": "Ambur Chicken Biryani",
+        "food-price": "",
+        "description": "Authentic Ambur-style biryani with soft chicken and mild spices."
+      },
+      {
+        "img-url": "./menu-image/biryani/kalyanachickenbiryani.jpg",
+        "food-title": "Kalyana Chicken Biryani",
+        "food-price": "",
+        "description": "A wedding-special biryani known for its rich, flavorful chicken masala."
+      },
+      {
+        "img-url": "./menu-image/biryani/kalyanamuttonbiryani.jpg",
+        "food-title": "Kalyana Mutton Biryani (Weekend)",
+        "food-price": "",
+        "description": "A weekend-only biryani crafted with tender mutton and bold, spiced flavors."
+      },
+      {
+        "img-url": "./menu-image/missingimages/aatu.avif",
+        "food-title": "Aatu Kaal Biryani (Weekend)",
+        "food-price": "",
+        "description": "Hearty biryani with slow-cooked goat leg and a blend of aromatic spices."
+      },
+      {
+        "img-url": "./menu-image/missingimages/vaniyambadichickenbiryani.avif",
+        "food-title": "Vaniyambadi Chicken Biryani (Weekend)",
+        "food-price": "",
+        "description": "A delicately spiced biryani with juicy chicken and fragrant basmati rice."
+      },
+      {
+        "img-url": "./menu-image/biryani/vaniyambadimuttonbiryani.jpg",
+        "food-title": "Vaniyambadi Mutton Biryani (Weekend)",
+        "food-price": "",
+        "description": "A biryani loved for its fiery spice, tender mutton, and signature Tamil touch."
+      },
+      {
+        "img-url": "./menu-image/missingimages/kongunaduvellai.avif",
+        "food-title": "Kongunadu Vellai Chicken Biryani (Weekend)",
+        "food-price": "",
+        "description": "A unique Kongunadu-style white chicken biryani made with aromatic spices and coconut milk for a rich yet mild flavor."
+      }
+    ]
+  },
+  "Veg Curries": {
+    "menu-tag": "",
+    "items": [
+      {
+        "img-url": "./menu-image/missingimages/paneerbuttermasala.avif",
+        "food-title": "Paneer Butter Masala",
+        "food-price": "",
+        "description": "Soft paneer cubes simmered in a creamy, rich tomato-based butter sauce."
+      },
+      {
+        "img-url": "./menu-image/missingimages/mutterpaneer.jpg",
+        "food-title": "Matar Paneer",
+        "food-price": "",
+        "description": "A North Indian delicacy of soft paneer and green peas in a creamy gravy."
+      },
+      {
+        "img-url": "./menu-image/missingimages/kadaipaneer.jpg",
+        "food-title": "Kadai Paneer",
+        "food-price": "",
+        "description": "Paneer cubes stir-fried with bell peppers and a bold, spicy masala."
+      },
+      {
+        "img-url": "./menu-image/missingimages/aloomatar.jpg",
+        "food-title": "Aloo Matar",
+        "food-price": "",
+        "description": "Potatoes and green peas simmered in flavorful spices and tomatoes. A simple yet satisfying staple in Indian households."
+      },
+      {
+        "img-url": "./menu-image/missingimages/aloopalak.jpg",
+        "food-title": "Aloo Palak",
+        "food-price": "",
+        "description": "Potatoes cooked with fresh spinach in aromatic spices. Earthy spinach flavors with comforting potato texture."
+      },
+      {
+        "img-url": "./menu-image/missingimages/dalpalak.jpg",
+        "food-title": "Dal Palak",
+        "food-price": "",
+        "description": "Yellow lentils cooked with fresh spinach leaves and traditional spices. Protein-rich dish combining lentils and spinach."
+      },
+      {
+        "img-url": "./menu-image/missingimages/matarpalak.jpg",
+        "food-title": "Matar Palak",
+        "food-price": "",
+        "description": "Fresh green peas and spinach cooked in light spiced gravy. Packed with vitamins and minerals for healthy dining."
+      },
+      {
+        "img-url": "./menu-image/missingimages/palakpaneer.jpg",
+        "food-title": "Palak Paneer",
+        "food-price": "",
+        "description": "Soft paneer cubes cooked in fresh spinach puree with aromatic spices. A nutritious green curry rich in iron and protein."
+      },
+      {
+        "img-url": "./menu-image/missingimages/paneertikkamasala.jpg",
+        "food-title": "Paneer Tikka Masala",
+        "food-price": "",
+        "description": "Paneer cubes stir-fried with bell peppers and a bold, spicy masala. A classic North Indian dish that combines smoky flavors with velvety texture."
+      },
+      {
+        "img-url": "./menu-image/missingimages/veggieschettinad.avif",
+        "food-title": "Veg Chettinad",
+        "food-price": "",
+        "description": "A Chettinad-style mixed vegetable curry packed with bold spices and flavors."
+      },
+      {
+        "img-url": "./menu-image/missingimages/mixedvegkurma.avif",
+        "food-title": "Mixed Veg Kurma",
+        "food-price": "",
+        "description": "A creamy, coconut-based mixed vegetable curry infused with aromatic spices."
+      },
+      {
+        "img-url": "./menu-image/missingimages/dalTadka.avif",
+        "food-title": "Dal Tadka",
+        "food-price": "",
+        "description": "A comforting lentil dish tempered with garlic, cumin, and fragrant spices."
+      },
+      {
+        "img-url": "./menu-image/missingimages/tomatopappu.avif",
+        "food-title": "Tomato Pappu",
+        "food-price": "",
+        "description": "Andhra-style tangy dal cooked with fresh tomatoes and tempered spices."
+      },
+      {
+        "img-url": "./menu-image/missingimages/ennaikathirikai.avif",
+        "food-title": "Ennai Kathirikai",
+        "food-price": "",
+        "description": "Brinjal curry cooked in a rich, tangy, and spicy tamarind-based sauce."
+      },
+      {
+        "img-url": "./menu-image/missingimages/poondukuzhambu.avif",
+        "food-title": "Poondu Kuzhambu",
+        "food-price": "",
+        "description": "A robust garlic curry simmered in a spicy and tangy tamarind gravy."
+      }
+    ]
+  },
+  "Non Veg Curries": {
+    "menu-tag": "",
+    "items": [
+      {
+        "img-url": "./menu-image/missingimages/chickenkurma.avif",
+        "food-title": "Chicken Kurma",
+        "food-price": "",
+        "description": "A creamy, coconut-based chicken curry infused with fragrant Indian spices."
+      },
+      {
+        "img-url": "./menu-image/missingimages/chettinadchicken.avif",
+        "food-title": "Chettinad Chicken",
+        "food-price": "",
+        "description": "A fiery Chettinad-style chicken curry bursting with bold, aromatic spices."
+      },
+      {
+        "img-url": "./menu-image/missingimages/neelagirikozhikuzhambu.avif",
+        "food-title": "Neelagiri Kozhi Kuzhambu",
+        "food-price": "",
+        "description": "A flavorful chicken curry with a unique green masala made of fresh herbs."
+      },
+      {
+        "img-url": "./menu-image/missingimages/kongunadukozhikuzhambu.avif",
+        "food-title": "Kongunadu Kozhi Kuzhambu",
+        "food-price": "",
+        "description": "A traditional Kongunadu-style chicken curry with a rich coconut base."
+      },
+      {
+        "img-url": "./menu-image/missingimages/karaiKudiKozhiKuzhambu.jpg",
+        "food-title": "KaraiKudi Kozhi Kuzhambu",
+        "food-price": "",
+        "description": "A spicily Karaikudi-style chicken curry cooked with roasted spices."
+      },
+      {
+        "img-url": "./menu-image/missingimages/andhrakodikura.avif",
+        "food-title": "Andhra Kodi Kura",
+        "food-price": "",
+        "description": "A spicy and flavorful Andhra-style chicken curry with bold spices and a rich gravy."
+      },
+      {
+        "img-url": "./menu-image/missingimages/mughlaichicken.avif",
+        "food-title": "Mughlai Chicken",
+        "food-price": "",
+        "description": "A royal Mughlai delicacy featuring chicken cooked in a buttery, nut-based sauce with aromatic spices."
+      },
+      {
+        "img-url": "./menu-image/missingimages/chickentikkammasala.avif",
+        "food-title": "Chicken Tikka Masala",
+        "food-price": "",
+        "description": "Tender chicken tikka pieces simmered in a rich, creamy tomato-based masala sauce."
+      },
+      {
+        "img-url": "./menu-image/missingimages/chickenbuttermasala.avif",
+        "food-title": "Chicken Butter Masala",
+        "food-price": "",
+        "description": "Succulent chicken cooked in a smooth and buttery tomato gravy with Indian spices."
+      },
+      {
+        "img-url": "./menu-image/missingimages/muttonkurma.avif",
+        "food-title": "Mutton Kurma",
+        "food-price": "",
+        "description": "A mildly spiced, coconut-based mutton curry infused with fragrant herbs and spices."
+      },
+      {
+        "img-url": "./menu-image/missingimages/chettinadmutton.avif",
+        "food-title": "Chettinad Mutton",
+        "food-price": "",
+        "description": "A fiery Chettinad-style mutton curry made with roasted spices and a bold masala."
+      },
+      {
+        "img-url": "./menu-image/missingimages/karaiKudiMuttonCurry.jpg",
+        "food-title": "KaraiKudi Mutton Curry",
+        "food-price": "",
+        "description": "A spicy and flavorful Karaikudi-style mutton curry with a deep, rich taste."
+      },
+      {
+        "img-url": "./menu-image/missingimages/neelagirimuttoncurry.avif",
+        "food-title": "Neelagiri Mutton Curry",
+        "food-price": "",
+        "description": "A unique green-herbed mutton curry infused with fresh herbs and coconut milk."
+      },
+      {
+        "img-url": "./menu-image/missingimages/muttonnallimasala.avif",
+        "food-title": "Mutton Nalli Masala",
+        "food-price": "",
+        "description": "Slow-cooked goat marrow curry with a rich, aromatic spice blend and thick gravy."
+      },
+      {
+        "img-url": "./menu-image/missingimages/maduraiValameenKuzhambu.avif",
+        "food-title": "Madurai Valameen Kuzhambu",
+        "food-price": "",
+        "description": "A traditional Madurai-style fish curry with a tamarind base and bold flavors."
+      },
+      {
+        "img-url": "./menu-image/missingimages/sangaraMeenKuzhambu.avif",
+        "food-title": "Sangara Meen Kuzhambu",
+        "food-price": "",
+        "description": "A tangy and spicy fish curry made with fresh snapper and South Indian spices."
+      },
+      {
+        "img-url": "./menu-image/missingimages/vanchiramMeenKuzhambu.avif",
+        "food-title": "Vanchiram Meen Kuzhambu",
+        "food-price": "",
+        "description": "A coastal-style Kingfish curry cooked in a flavorful, tangy tamarind gravy."
+      },
+      {
+        "img-url": "./menu-image/missingimages/nethilimeenkuzambhu.avif",
+        "food-title": "Nethili Meen Kuzhambu",
+        "food-price": "",
+        "description": "A rustic anchovy fish curry made with bold flavors and a spicy tamarind base."
+      },
+      {
+        "img-url": "./menu-image/missingimages/malabarfishcurry.avif",
+        "food-title": "Malabar Fish Curry",
+        "food-price": "",
+        "description": "A Kerala-style fish curry infused with coconut milk, tamarind, and fragrant spices."
+      },
+      {
+        "img-url": "./menu-image/missingimages/raamnaadueralthokku.avif",
+        "food-title": "Raamnaadu Eral Thokku",
+        "food-price": "",
+        "description": "A spicy hot prawn masala from the Ramnad region, bursting with coastal flavors."
+      }
+    ]
+  },
+  "South Indian Specials": {
+    "menu-tag": "",
+    "items": [
+      {
+        "img-url": "./menu-image/south-indian-specials/idly.jpg",
+        "food-title": "Idly",
+        "food-price": "",
+        "description": "Soft And Fluffy Steamed Rice Cakes, A Staple South Indian Breakfast Dish."
+      },
+      {
+        "img-url": "./menu-image/south-indian-specials/gheepongal.jpg",
+        "food-title": "Ghee Pongal",
+        "food-price": "",
+        "description": "A Comforting Dish Made With Rice And Lentils, Flavored With Ghee And Spices."
+      },
+      {
+        "img-url": "./menu-image/south-indian-specials/medhuvadai.webp",
+        "food-title": "Medhu Vadai",
+        "food-price": "",
+        "description": "Crispy, Golden Urad Dal Fritters, Perfect As A Crunchy Snack Or Side Dish."
+      },
+      {
+        "img-url": "./menu-image/south-indian-specials/masalavadai.jpg",
+        "food-title": "Masala Vadai",
+        "food-price": "",
+        "description": "Spiced Lentil Fritters, Deep-Fried To A Crispy Perfection."
+      },
+      {
+        "img-url": "./menu-image/south-indian-specials/idiyaappam.jpg",
+        "food-title": "Idiyaappam",
+        "food-price": "",
+        "description": "Soft And Delicate String Hoppers Made From Rice Flour, Perfect With Coconut Milk Or Curry."
+      },
+      {
+        "img-url": "./menu-image/south-indian-specials/kuzhipaniyaram.webp",
+        "food-title": "Kuzhi Paniyaram",
+        "food-price": "",
+        "description": "Golden, Crispy, And Fluffy Dumplings Made From Fermented Rice Batter, Served With Chutneys."
+      },
+      {
+        "img-url": "./menu-image/south-indian-specials/rasamidlyvadai.jpg",
+        "food-title": "Rasam (Idly/Vadai)",
+        "food-price": "",
+        "description": "A Tangy And Spicy South Indian Soup Served With Soft Idlies Or Crispy Vadas."
+      },
+      {
+        "img-url": "./menu-image/missingimages/sambaridlyvadai.avif",
+        "food-title": "Sambar (Idly/Vadai)",
+        "food-price": "",
+        "description": "A Flavorful Lentil-Based Stew Served With Idlies Or Vadas For A Classic South Indian Meal."
+      },
+      {
+        "img-url": "./menu-image/missingimages/thattuidly.avif",
+        "food-title": "Thattu Idly (Veg)",
+        "food-price": "",
+        "description": "A Soft And Thick Steamed Rice Cake Served With Chutneys And Sambar."
+      },
+      {
+        "img-url": "./menu-image/missingimages/thattuidly.avif",
+        "food-title": "Thattu Idly (Non-Veg)",
+        "food-price": "",
+        "description": "A Hearty, Thick Idly Served With Spicy Non-Veg Gravies Like Chicken Or Mutton Curry."
+      },
+      {
+        "img-url": "./menu-image/south-indian-specials/appam.jpg",
+        "food-title": "Appam (Plain)",
+        "food-price": "",
+        "description": "A Soft And Fluffy Bowl-Shaped Pancake, Plain Or With Egg, Best Paired With Coconut-Based Curries."
+      },
+      {
+        "img-url": "./menu-image/south-indian-specials/poorimasala.jpg",
+        "food-title": "Poori Masala",
+        "food-price": "",
+        "description": "Puffed Golden Wheat Bread Served With Mildly Spiced Mashed Potato Curry."
+      }
+    ]
+  },
+  "Thanjai Specials": {
+    "menu-tag": "",
+    "items": [
+      {
+        "img-url": "./menu-image/missingimages/maharajaThali.webp",
+        "food-title": "Maharaja thali",
+        "food-price": "",
+        "description": "A Grand And Flavorful Indian Feast Featuring A Royal Assortment Of Traditional Dishes."
+      },
+      {
+        "img-url": "./menu-image/missingimages/naatukozhipichipottafry.avif",
+        "food-title": "Naatu Kozhi Pichipotta fry",
+        "food-price": "",
+        "description": "A Village-Style Shredded Country Chicken Fry, Slow-Cooked With Aromatic Spices For A Rustic And Flavorful Dish."
+      },
+      {
+        "img-url": "./menu-image/missingimages/naatukozhipirattal.avif",
+        "food-title": "Naatu Kozhi Pirattal",
+        "food-price": "",
+        "description": "A Rustic Country Chicken Curry, Slow-Cooked With Aromatic Spices."
+      },
+      {
+        "img-url": "./menu-image/missingimages/chickenchukkamasaala.avif",
+        "food-title": "Chicken Chukka Masala",
+        "food-price": "",
+        "description": "A Dry And Spicy South Indian Chicken Stir-Fry With Bold Flavors."
+      },
+      {
+        "img-url": "./menu-image/missingimages/uppuKariPirittal.avif",
+        "food-title": "Uppu Kari Pirittal",
+        "food-price": "",
+        "description": "A Traditional South Indian Dish Featuring Succulent Meat Stir-Fried With Salt And Bold Spices For A Rich, Authentic Flavor."
+      },
+      {
+        "img-url": "./menu-image/missingimages/muttonchukkamasaala.avif",
+        "food-title": "Mutton Chukka Masala",
+        "food-price": "",
+        "description": "Tender Mutton Pieces Dry-Roasted With A Fiery Masala For A Rich, Deep Flavor."
+      },
+      {
+        "img-url": "./menu-image/missingimages/muttonliverpepperfry.avif",
+        "food-title": "Mutton Liver Pepper Fry",
+        "food-price": "",
+        "description": "A Spicy And Peppery Stir-Fry Featuring Mutton Liver And Bold Seasonings."
+      },
+      {
+        "img-url": "./menu-image/missingimages/maduraiNeiChukka.avif",
+        "food-title": "Madurai Nei Chukka (Mutton)",
+        "food-price": "",
+        "description": "A Ghee-Roasted Mutton Dish From Madurai, Rich In Spices And Bold Flavors."
+      },
+      {
+        "img-url": "./menu-image/missingimages/muttonmullaiPirattal.avif",
+        "food-title": "Mutton Mullai Pirattal (Brain)",
+        "food-price": "",
+        "description": "A Flavorful And Aromatic Mutton Dish Cooked With Fresh Coriander And Spices."
+      },
+      {
+        "img-url": "./menu-image/missingimages/aatuKudalPepperFry.jpg",
+        "food-title": "Aatu Kudal Pepper Fry",
+        "food-price": "",
+        "description": "A Fiery Stir-Fry Of Goat Intestines, Seasoned With Bold Pepper Flavors."
+      },
+      {
+        "img-url": "./menu-image/missingimages/whitePompretTawaFry.jpg",
+        "food-title": "White Pompret Tawa Fry",
+        "food-price": "",
+        "description": "A Crispy, Pan-Fried Pomfret Marinated In Spices And Coated With Semolina For A Golden, Flavorful Crust."
+      },
+      {
+        "img-url": "./menu-image/thanjai-specials/vanchirammeentawafry.jpg",
+        "food-title": "Vanchiram Meen Tawa Fry",
+        "food-price": "",
+        "description": "Kingfish Marinated In Spices And Shallow-Fried To Golden Perfection."
+      },
+      {
+        "img-url": "./menu-image/missingimages/meenPollichattu.jpg",
+        "food-title": "Meen Pollichattu",
+        "food-price": "",
+        "description": "A Kerala-Style Banana Leaf-Wrapped Fish, Steamed And Grilled For Intense Flavor."
+      },
+      {
+        "img-url": "./menu-image/missingimages/nethilimeenPepperFry.jpg",
+        "food-title": "Nethilimeen Pepper Fry",
+        "food-price": "",
+        "description": "A Spicy, Peppery Stir-Fried Anchovy Dish Bursting With South Indian Flavors."
+      },
+      {
+        "img-url": "./menu-image/missingimages/chettinadNanduVaruval.jpg",
+        "food-title": "Chettinad Nandu Varuval",
+        "food-price": "",
+        "description": "A Spicy Chettinad-Style Crab Fry Infused With Bold Spices And Coconut."
+      },
+      {
+        "img-url": "./menu-image/thanjai-specials/ShrimpPepperFry.jpeg",
+        "food-title": "Shrimp Pepper Fry",
+        "food-price": "",
+        "description": "Juicy Shrimp Stir-Fried With Black Pepper And South Indian Spices."
+      }
+    ]
+  },
+  "Chinese": {
+    "menu-tag": "",
+    "items": [
+      {
+        "img-url": "./menu-image/chinese/vegfriedrice.avif",
+        "food-title": "Veg Fried Rice",
+        "food-price": "",
+        "description": "Fragrant Basmati Rice Stir-Fried With Fresh Vegetables And Aromatic Seasonings."
+      },
+      {
+        "img-url": "./menu-image/chinese/schezwanvegfriedrice.jpg",
+        "food-title": "Schezwan Veg Fried Rice",
+        "food-price": "",
+        "description": "A Spicy And Tangy Indo-Chinese Rice Dish Tossed With Bold Schezwan Flavors."
+      },
+      {
+        "img-url": "./menu-image/chinese/vegnoodles.jpg",
+        "food-title": "Veg Noodles",
+        "food-price": "",
+        "description": "Soft Stir-Fried Noodles Tossed With Fresh Vegetables And A Savory Sauce."
+      },
+      {
+        "img-url": "./menu-image/chinese/schezwanvegnoodles.jpg",
+        "food-title": "Schezwan Veg Noodles",
+        "food-price": "",
+        "description": "Spicy, Garlicky Noodles Packed With Bold Flavors And Crisp Veggies."
+      },
+      {
+        "img-url": "./menu-image/missingimages/crispyfriedchickennoodles.jpg",
+        "food-title": "Crispy Fried Chicken Noodles",
+        "food-price": "",
+        "description": "Crunchy Fried Chicken Tossed With Stir-Fried Noodles And Savory Sauce."
+      },
+      {
+        "img-url": "./menu-image/missingimages/chettinadChickenFriedRice.jpg",
+        "food-title": "Chettinad Chicken Fried Rice",
+        "food-price": "",
+        "description": "A South Indian Take On Fried Rice—Bold Chettinad Spices Meet Fragrant Rice."
+      },
+      {
+        "img-url": "./menu-image/chinese/eggfriedrice.jpg",
+        "food-title": "Egg Fried Rice",
+        "food-price": "",
+        "description": "A Simple Yet Flavorful Fried Rice With Scrambled Eggs And Aromatic Seasonings."
+      },
+      {
+        "img-url": "./menu-image/chinese/paneerfriedrice.jpg",
+        "food-title": "Paneer Fried Rice",
+        "food-price": "",
+        "description": "Fragrant Rice Stir-Fried With Soft Paneer Cubes And A Blend Of Spices."
+      },
+      {
+        "img-url": "./menu-image/chinese/gobifriedrice.jpg",
+        "food-title": "Gobi Fried Rice",
+        "food-price": "",
+        "description": "Indo-Chinese Style Fried Rice With Crispy Cauliflower And Bold Seasonings."
+      }
+    ]
+  },
+  "Breads & Parottas": {
+    "menu-tag": "",
+    "items": [
+      {
+        "img-url": "./menu-image/missingimages/malabarparotta.jpg",
+        "food-title": "Malabar Parotta",
+        "food-price": "",
+        "description": "A Flaky, Multi-Layered Flatbread From Kerala, Known For Its Soft Yet Crispy Texture."
+      },
+      {
+        "img-url": "./menu-image/breads-parottas/bunparotta.avif",
+        "food-title": "Bun Parotta",
+        "food-price": "",
+        "description": "A Soft And Fluffy, Slightly Sweet Version Of The Classic South Indian Parotta."
+      },
+      {
+        "img-url": "./menu-image/breads-parottas/noolparotta.jpeg",
+        "food-title": "Nool Parotta",
+        "food-price": "",
+        "description": "A Delicate And Stringy Layered Parotta, Perfect With Spicy Curries."
+      },
+      {
+        "img-url": "./menu-image/breads-parottas/chapati.jpg",
+        "food-title": "Chapati",
+        "food-price": "",
+        "description": "A Soft, Whole Wheat Flatbread, Lightly Roasted For A Healthy And Tasty Side."
+      },
+      {
+        "img-url": "./menu-image/breads-parottas/laba.jpg",
+        "food-title": "Laba",
+        "food-price": "",
+        "description": "Vegetable/Egg/Chicken/Keema."
+      },
+      {
+        "img-url": "./menu-image/breads-parottas/kothuparatha.jpg",
+        "food-title": "Kothu Paratha",
+        "food-price": "",
+        "description": "Veg/Egg"
+      },
+      {
+        "img-url": "./menu-image/missingimages/kothuParatha-nonveg.jpg",
+        "food-title": "Kothu Paratha (Non - Veg)",
+        "food-price": "",
+        "description": "A Popular Street Food—Shredded Parotta Stir-Fried With Eggs, Onions, And Spices."
+      },
+      {
+        "img-url": "./menu-image/missingimages/veechuParatha.jpg",
+        "food-title": "Veechu Paratha",
+        "food-price": "",
+        "description": "A Thin, Soft, And Flaky Paratha, Hand-Stretched And Cooked To Perfection."
+      },
+      {
+        "img-url": "./menu-image/missingimages/ceylonParatha.jpg",
+        "food-title": "Ceylon Paratha",
+        "food-price": "",
+        "description": "A Crispy, Stuffed Paratha Inspired By Sri Lankan Flavors, Perfect With Spicy Curries"
+      },
+      {
+        "img-url": "./menu-image/missingimages/chilliParatha.jpg",
+        "food-title": "Chilli Paratha (Veg)",
+        "food-price": "",
+        "description": "Shredded Parotta Stir-Fried With A Spicy Chili Sauce For An Indo-Chinese Twist"
+      },
+      {
+        "img-url": "./menu-image/missingimages/chickenKeeliParotta.jpg",
+        "food-title": "Chicken Keeli Parotta",
+        "food-price": "",
+        "description": "A Layered Parotta Served With Shredded, Spicy Chicken For A Flavorful Meal."
+      },
+      {
+        "img-url": "./menu-image/missingimages/muttonKeeliParotta.jpg",
+        "food-title": "Mutton Keeli Parotta",
+        "food-price": "",
+        "description": "Crispy Parotta Paired With Slow-Cooked, Spicy Shredded Mutton."
+      }
+    ]
+  },
+  "Dosai Corner": {
+    "menu-tag": "",
+    "items": [
+      {
+        "img-url": "./menu-image/dosai-corner/plaindosai.jpg",
+        "food-title": "Plain Dosai",
+        "food-price": "",
+        "description": "A Crispy And Golden South Indian Crepe Made From Fermented Rice And Lentil Batter."
+      },
+      {
+        "img-url": "./menu-image/dosai-corner/gheedosai.jpg",
+        "food-title": "Ghee Cone Dosai",
+        "food-price": "",
+        "description": "A Crispy Cone-Shaped Dosa Infused With Rich Ghee For A Delightful Flavor."
+      },
+      {
+        "img-url": "./menu-image/missingimages/podiDosai.jpg",
+        "food-title": "Podi Dosai",
+        "food-price": "",
+        "description": "A Crispy Dosa Sprinkled With Spicy And Aromatic Podi (Lentil Powder) For A Fiery Kick."
+      },
+      {
+        "img-url": "./menu-image/dosai-corner/masaladosai.webp",
+        "food-title": "Masala Dosai",
+        "food-price": "",
+        "description": "A Crispy Dosa Stuffed With Spiced Mashed Potatoes, Served With Chutneys And Sambar."
+      },
+      {
+        "img-url": "./menu-image/missingimages/chilliMasalaDosai.jpg",
+        "food-title": "Chilli Masala Dosai",
+        "food-price": "",
+        "description": "A Spicy Variation Of Masala Dosa With Green Chilies And Bold Flavors."
+      },
+      {
+        "img-url": "./menu-image/missingimages/mysoreMasalaDosai.jpg",
+        "food-title": "Mysore Masala Dosai",
+        "food-price": "",
+        "description": "A Flavorful Dosa With A Spicy Red Chutney Spread And A Delicious Potato Filling."
+      },
+      {
+        "img-url": "./menu-image/missingimages/ravadosai.jpg",
+        "food-title": "Rava Onion/Masala Dosai",
+        "food-price": "",
+        "description": "A Crispy Semolina Dosa With Onions Or Spiced Potato Stuffing, A Crunchy Delight."
+      },
+      {
+        "img-url": "./menu-image/missingimages/dragonDosai.jpg",
+        "food-title": "Dragon Dosai",
+        "food-price": "",
+        "description": "A Fusion Dosa Infused With Spicy Indo-Chinese Flavors, Served With Special Sauces."
+      },
+      {
+        "img-url": "./menu-image/dosai-corner/eggdosai.jpg",
+        "food-title": "Egg Dosai",
+        "food-price": "",
+        "description": "A Crispy Dosa Layered With Eggs And Spices, A Perfect Protein-Packed Breakfast."
+      },
+      {
+        "img-url": "./menu-image/missingimages/cheeseDosai.jpg",
+        "food-title": "Cheese Dosai",
+        "food-price": "",
+        "description": "A Crispy Dosa Filled With Melted Cheese For A Delightful Fusion Twist."
+      },
+      {
+        "img-url": "./menu-image/missingimages/chocolateDosai.jpg",
+        "food-title": "Chocolate Dosai",
+        "food-price": "",
+        "description": "A Sweet And Crispy Dosa Drizzled With Rich Chocolate Syrup, Perfect For Dessert."
+      },
+      {
+        "img-url": "./menu-image/missingimages/paneerDosai.jpg",
+        "food-title": "Paneer Dosai",
+        "food-price": "",
+        "description": "A Savory Dosa Stuffed With Spiced Paneer, Combining South Indian And North Indian Flavors."
+      },
+      {
+        "img-url": "./menu-image/missingimages/andhraSpicyDosai.jpg",
+        "food-title": "Andhra Spicy Dosai",
+        "food-price": "",
+        "description": "A Fiery Dosa Infused With Bold Andhra-Style Spices And Chutneys."
+      },
+      {
+        "img-url": "./menu-image/missingimages/chickenKariDosai.jpg",
+        "food-title": "Chicken Kari Dosai",
+        "food-price": "",
+        "description": "A Crispy Dosa Topped With Flavorful Minced Chicken Curry, A Non-Veg Delight."
+      },
+      {
+        "img-url": "./menu-image/dosai-corner/muttonkaridosai.jpg",
+        "food-title": "Mutton Kari Dosai",
+        "food-price": "",
+        "description": "A Delicious Dosa Layered With Spicy Minced Mutton Curry For A Meaty Bite."
+      },
+      {
+        "img-url": "./menu-image/missingimages/setDosaVadacurry.jpg",
+        "food-title": "Set Dosa Vadacurry",
+        "food-price": "",
+        "description": "Soft And Fluffy Set Dosas Served With A Flavorful Vadacurry Gravy."
+      },
+      {
+        "img-url": "./menu-image/missingimages/kalDosa.jpg",
+        "food-title": "Kal Dosa",
+        "food-price": "",
+        "description": "A Soft And Thick Dosa Cooked On A Stone Griddle, Known For Its Spongy Texture."
+      },
+      {
+        "img-url": "./menu-image/missingimages/kalDosaWithChickenCurry.jpg",
+        "food-title": "Kal Dosa With Chicken curry",
+        "food-price": "",
+        "description": "Soft And Thick Kal Dosa Served With A Spicy And Aromatic Chicken Curry."
+      },
+      {
+        "img-url": "./menu-image/missingimages/kalDosaWithMuttonCurry.jpg",
+        "food-title": "Kal Dosa With Mutton Curry",
+        "food-price": "",
+        "description": "A Thick And Soft Dosa Paired With A Rich And Flavorful Mutton Curry."
+      },
+      {
+        "img-url": "./menu-image/dosai-corner/uttappam.avif",
+        "food-title": "Uttappam",
+        "food-price": "",
+        "description": "Plain/Podi/Onion/Chilli"
+      }
+    ]
+  },
+  "Desserts": {
+    "menu-tag": "",
+    "items": [
+      {
+        "img-url": "./menu-image/desserts/pineappleravakesari.jpg",
+        "food-title": "Pineapple Rava Kesari",
+        "food-price": "",
+        "description": "A Fragrant And Sweet Semolina Dessert Infused With Pineapple And Ghee."
+      },
+      {
+        "img-url": "./menu-image/desserts/semiyapayasam.jpg",
+        "food-title": "Semiya Payasam",
+        "food-price": "",
+        "description": "A Creamy South Indian Vermicelli Pudding Made With Milk, Sugar, And Nuts."
+      },
+      {
+        "img-url": "./menu-image/missingimages/breadhalwa.jpg",
+        "food-title": "Bread Halwa",
+        "food-price": "",
+        "description": "A Rich And Decadent Sweet Made From Fried Bread, Milk, And Ghee."
+      },
+      {
+        "img-url": "./menu-image/missingimages/iruttuKadaiHalwa.jpg",
+        "food-title": "Iruttu Kadai Halwa",
+        "food-price": "",
+        "description": "A Famous Dark And Rich Wheat-Based Halwa, Known For Its Melt-In-Mouth Texture."
+      },
+      {
+        "img-url": "./menu-image/missingimages/akkaravadisal.jpg",
+        "food-title": "Akkaravadisal",
+        "food-price": "",
+        "description": "A Traditional South Indian Rice Pudding Made With Jaggery, Ghee, And Cardamom."
+      },
+      {
+        "img-url": "./menu-image/missingimages/jigarthanda.jpg",
+        "food-title": "Jigarthanda",
+        "food-price": "",
+        "description": "A Madurai Special Cool Drink Made With Milk, Badam Pisin, And Nannari Syrup."
+      }
+    ]
+  },
+  "Beverages": {
+    "menu-tag": "",
+    "items": [
+      {
+        "img-url": "./menu-image/beverages/masalatea.jpg",
+        "food-title": "Masala Tea",
+        "food-price": "",
+        "description": "A traditional Indian tea known for its bold spices and soothing warmth."
+      },
+      {
+        "img-url": "./menu-image/beverages/masalafiltercoffee.jpg",
+        "food-title": "Madras Filter Coffee",
+        "food-price": "",
+        "description": "A bold, frothy coffee blend steeped in tradition and served piping hot."
+      },
+      {
+        "img-url": "./menu-image/beverages/mangolassi.jpg",
+        "food-title": "Mango Lassi",
+        "food-price": "",
+        "description": "A Refreshing Yogurt-Based Mango Smoothie With A Creamy And Sweet Taste."
+      },
+      {
+        "img-url": "./menu-image/missingimages/sweetlassi.jpg",
+        "food-title": "Sweet Lassi",
+        "food-price": "",
+        "description": "A Thick And Creamy Punjabi-Style Yogurt Drink Sweetened With Sugar."
+      },
+      {
+        "img-url": "./menu-image/missingimages/saltlassi.jpg",
+        "food-title": "Salt Lassi",
+        "food-price": "",
+        "description": "A Refreshing And Savory Yogurt-Based Drink, Mildly Salted And Spiced."
+      },
+      {
+        "img-url": "./menu-image/missingimages/buttermilk.jpg",
+        "food-title": "Butter Milk",
+        "food-price": "",
+        "description": "A Cooling And Spiced Thin Yogurt Drink, Perfect For Digestion."
+      },
+      {
+        "img-url": "./menu-image/missingimages/badamMilk.jpg",
+        "food-title": "Badam Milk",
+        "food-price": "",
+        "description": "A Rich And Creamy Almond-Flavored Milk Infused With Saffron And Cardamom."
+      },
+      {
+        "img-url": "./menu-image/beverages/rosemilk.webp",
+        "food-title": "Rose Milk",
+        "food-price": "",
+        "description": "A Fragrant And Refreshing Chilled Milk Drink Flavored With Rose Syrup."
+      },
+      {
+        "img-url": "./menu-image/missingimages/jaljeeraWater.jpg",
+        "food-title": "Jaljeera Water",
+        "food-price": "",
+        "description": "A Tangy And Spiced Cumin-Flavored Drink, Perfect For Digestion."
+      },
+      {
+        "img-url": "./menu-image/missingimages/lemonSoda.jpg",
+        "food-title": "Lemon Soda",
+        "food-price": "",
+        "description": "A Refreshing Soda Drink Infused With Lemon Juice For A Tangy Kick."
+      },
+      {
+        "img-url": "./menu-image/missingimages/masalaSoda.jpg",
+        "food-title": "Masala Soda",
+        "food-price": "",
+        "description": "A Fizzy Soda Drink Blended With Tangy Masala Spices For A Unique Taste."
+      },
+      {
+        "img-url": "./menu-image/missingimages/sarbath.jpg",
+        "food-title": "Sarbath",
+        "food-price": "",
+        "description": "A Refreshing South Indian Summer Drink Made With Nannari Syrup And Lime."
+      },
+      {
+        "img-url": "./menu-image/missingimages/sparklingWater.jpg",
+        "food-title": "Sparkling Water",
+        "food-price": "",
+        "description": ""
+      },
+      {
+        "img-url": "./menu-image/missingimages/coke.jpg",
+        "food-title": "Coke",
+        "food-price": "",
+        "description": ""
+      },
+      {
+        "img-url": "./menu-image/missingimages/gingerAle.jpg",
+        "food-title": "GingerAle",
+        "food-price": "",
+        "description": ""
+      },
+      {
+        "img-url": "./menu-image/missingimages/sprite.jpg",
+        "food-title": "Sprite",
+        "food-price": "",
+        "description": ""
+      },
+      {
+        "img-url": "./menu-image/missingimages/fanta.jpg",
+        "food-title": "Fanta",
+        "food-price": "",
+        "description": ""
+      },
+      {
+        "img-url": "./menu-image/missingimages/pepsi.jpg",
+        "food-title": "Pepsi",
+        "food-price": "",
+        "description": ""
+      },
+      {
+        "img-url": "./menu-image/beverages/bottledwater.jpg",
+        "food-title": "Bottled water",
+        "food-price": "",
+        "description": ""
+      }
+    ]
+  }
+}

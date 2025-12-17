@@ -152,6 +152,102 @@
     max-width: 1400px;
     margin: 0 auto;
   }
+
+  /* Mobile dropdown filter (shown only on small screens) */
+  .filter-dropdown {
+    display: none;
+    max-width: 520px;
+    margin: 0 auto 12px;
+    padding: 0 6px;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .filter-dropdown-label {
+    font-weight: 600;
+    font-size: 13px;
+    color: var(--muted);
+    text-align: left;
+  }
+
+  .filter-dd {
+    position: relative;
+  }
+
+  .filter-dd-trigger {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    padding: 12px 14px;
+    border-radius: 14px;
+    border: 2px solid var(--border-green);
+    background: #ffffff;
+    color: var(--text);
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    outline: none;
+    cursor: pointer;
+    box-shadow: 0 6px 16px rgba(20, 180, 111, 0.12);
+  }
+
+  .filter-dd-trigger:focus-visible {
+    box-shadow: 0 0 0 4px rgba(20, 180, 111, 0.18), 0 6px 16px rgba(20, 180, 111, 0.12);
+  }
+
+  .filter-dd-caret {
+    width: 10px;
+    height: 10px;
+    border-right: 2px solid var(--border-green);
+    border-bottom: 2px solid var(--border-green);
+    transform: rotate(45deg);
+    margin-top: -2px;
+    flex: 0 0 auto;
+  }
+
+  .filter-dd-menu {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: calc(100% + 10px);
+    background: #ffffff;
+    border: 2px solid var(--border-green);
+    border-radius: 16px;
+    box-shadow: 0 16px 34px rgba(0, 0, 0, 0.12);
+    padding: 8px;
+    z-index: 50;
+    max-height: min(60vh, 420px);
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .filter-dd-option {
+    width: 100%;
+    text-align: left;
+    border: 0;
+    background: transparent;
+    color: var(--text);
+    padding: 12px 12px;
+    border-radius: 12px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    cursor: pointer;
+  }
+
+  .filter-dd-option:hover {
+    background: var(--light-green);
+  }
+
+  .filter-dd-option.is-active {
+    background: var(--border-green);
+    color: #ffffff;
+  }
+
+  .filter-dd-option:disabled {
+    opacity: 0.45;
+    cursor: not-allowed;
+  }
   
   .filter-btn {
     padding: 12px 24px;
@@ -239,6 +335,17 @@
     justify-content: center;
   }
   
+  .menu-item-head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 12px;
+  }
+
+  .menu-item-head .menu-item-name {
+    margin: 0;
+  }
+
   .menu-item-name {
     font-size: 22px;
     font-weight: 700;
@@ -246,13 +353,44 @@
     margin: 0 0 10px 0;
     line-height: 1.2;
   }
+
+  .menu-item-price {
+    font-size: 16px;
+    font-weight: 700;
+    color: #1a5f3f;
+    white-space: nowrap;
+  }
+
+  .menu-item-price.is-empty {
+    color: var(--muted);
+    font-weight: 600;
+  }
   
   .menu-item-description {
     font-size: 14px;
     line-height: 1.6;
     color: #2d5f4a;
-    margin: 0;
+    margin: 8px 0 0 0;
     font-style: italic;
+  }
+
+  .menu-empty-state {
+    padding: 10px 5vw 50px;
+    text-align: center;
+    color: var(--muted);
+  }
+
+  .menu-load-error {
+    max-width: 900px;
+    margin: 0 auto;
+    text-align: center;
+    color: var(--muted);
+    line-height: 1.7;
+  }
+
+  .filter-btn:disabled {
+    opacity: 0.45;
+    cursor: not-allowed;
   }
   
   /* Footer Styles */
@@ -449,6 +587,15 @@
   
     .filter-section {
       padding: 15px 3vw;
+    }
+
+    .filter-dropdown {
+      display: flex;
+    }
+
+    /* On mobile, use dropdown instead of many buttons */
+    .filter-container {
+      display: none;
     }
   
     .filter-container {
